@@ -1,10 +1,10 @@
 # network_sniffing-py
-first you should install used library using this command 
+first you should install used library using this command <br>
 pip install libname<br>
 replace 'libname' with the library name 
-or if you are using windows use
-python -m pip install libname
+or if you are using windows use this command <br>
+python -m pip install libname<br>
 then you should run the cmd as administrator 
-the go to the foder location and run our script using 
-python index.py
+the go to the folder location and run our script using <br>
+python index.py<br>
 and then start sniffing 
