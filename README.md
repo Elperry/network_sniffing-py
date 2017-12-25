@@ -1,6 +1,6 @@
 # network_sniffing-py
 first you should install used library using this command <br>
-<h2>pip install libname</h2><br>
+<b>pip install libname<b><br>
 replace 'libname' with the library name 
 or if you are using windows use this command <br>
 python -m pip install libname<br>
